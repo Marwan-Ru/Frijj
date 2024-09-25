@@ -93,6 +93,8 @@ Storyboard, wireframes et/ou mockups ZOE ET MILA :
 
 ## La boucle de gameplay schématisée :
 
+![boucle de gameplay](https://github.com/Marwan-Ru/Frijj/blob/main/boucle.png)
+
 # Look & Feel
 ## Direction artistique :
 
