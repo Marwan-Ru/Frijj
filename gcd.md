@@ -98,9 +98,7 @@ Achat unique.
 4-6 mois pour la partie visuelle (concepts arts, modélisation, texturing, animation, block-out )
 
 # Étude de marché \- ELIOT
-
-[4 étapes pour bien réaliser votre étude de marché | Bpifrance Création (bpifrance-creation.fr)](https://bpifrance-creation.fr/encyclopedie/letude-marche/comment-faire-son-etude-marche/4-etapes-bien-realiser-votre-etude-marche)  
-   
+ 
 
 ## Analyse de l’existant :
 
