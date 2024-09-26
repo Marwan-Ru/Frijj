@@ -71,7 +71,7 @@ Unity, pour sa (relative) légèreté comparé à Unreal, et son approche multi 
 
 Écriture et ambiance travaillées.
 
-3. # Production
+# Production
 
 ## Estimation des ventes :
 
